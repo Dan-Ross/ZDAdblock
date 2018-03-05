@@ -1,0 +1,17 @@
+{
+  "name": "Zendesk Adblock",
+  "author": {
+    "name": "Dan Ross",
+    "email": "dan.ross@lightspeedhq.com",
+    "url": "https://lightspeedhq.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "user_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
