@@ -7,6 +7,8 @@ The new release of the [App Recommendations feature in Zendesk](https://support.
 There is presently no opt-out mechanism for this feature. If you don't want agents to be digging through the marketplace while they should be working on tickets this app might solve your problems, until a better implementation of this feature is made available. 
 
 ### What the app does:
+The intent is to provide agents with a sense of pride and accomplishment by removing distractions from their work.
+
 Since the App Recommendations only display when no apps are present, this app being installed will prevent them from loading. 
 
 Installs an application to the user sidebar in Zendesk. This app is literally a blank app template from Zendesk with height adjusted to 30px. It's sole purpose in life is to present and stop Marketplace ads from appearing.
